@@ -6,11 +6,11 @@ engines:
       - ruby
       - javascript
       - python
-      - php
   fixme:
     enabled: false
   radon:
     enabled: true
+    python_version: 2
 ratings:
   paths:
   - "**.inc"
